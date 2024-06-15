@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-friendsionales:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-friendsionales:test:haskell-funcional-friendsionales-test"
